@@ -1,0 +1,6 @@
+name: Baum
+version: '${project.version}'
+main: de.ugur.baum.Baum
+api-version: 1.18
+authors: [ Ugur ]
+description: This is a Baum Plugin.
