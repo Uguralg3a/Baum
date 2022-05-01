@@ -4,3 +4,21 @@ main: de.ugur.baum.Baum
 api-version: 1.18
 authors: [ Ugur ]
 description: This is a Baum Plugin.
+
+commands:
+  test:
+    permission: baum.command.testcommand
+    aliases: ["t"]
+  baum:
+    permission: baum.command.baumcommand
+  vanish:
+    permission: baumcommand.vanishcommand
+    aliases: ["v"]
+
+permissions:
+  baum.command.testcommand:
+    default: op
+  baum.command.baumcommand:
+    default: op
+  baum.command.vanishcommand:
+    default: op
