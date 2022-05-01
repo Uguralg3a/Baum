@@ -1,3 +1,5 @@
+[Download](https://www.spigotmc.org/resources/baum.101765/)
+
 Dies ist ein einfaches Plugin von mir. Ich werde versuchen Wöchentlich neue Features raus zu bringen und dieses Plugin zu verbessern. 
 
 Dieses Plugin benötigt die Server Software PaperMC!
